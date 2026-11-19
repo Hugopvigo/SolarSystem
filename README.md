@@ -1,9 +1,9 @@
-<meta property="og:title" content="MugreSolar — a clockwork solar system">
+<meta property="og:title" content="SolarSystem — a clockwork solar system">
 <meta property="og:description" content="Un reloj de sol en latón: orrery de los ocho planetas con períodos orbitales reales, hecho con un único HTML autocontenido.">
 <meta property="og:image" content="https://raw.githubusercontent.com/Hugopvigo/SolarSystem/main/docs/capturas/preview.webp">
 
 <p align="center">
-  <img src="docs/capturas/preview.webp" alt="MugreSolar — orrery de los ocho planetas" width="100%">
+  <img src="docs/capturas/preview.webp" alt="SolarSystem — orrery de los ocho planetas" width="100%">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## Qué es esto
 
-**MugreSolar** es un reloj de sol mecánico en miniatura: un sistema solar animado en SVG con estética de orrery de latón. La página es **completamente autocontenida**: CSS y JavaScript en línea, sin fuentes, imágenes, CDNs ni librerías externas. Abre `index.html` y funciona.
+**SolarSystem** es un reloj de sol mecánico en miniatura: un sistema solar animado en SVG con estética de orrery de latón. La página es **completamente autocontenida**: CSS y JavaScript en línea, sin fuentes, imágenes, CDNs ni librerías externas. Abre `index.html` y funciona.
 
 Las **órbitas se dibujan como elipses** para sugerir una vista inclinada del plato, con unidad de graduación perimetral y 70 estrellas parpadeantes fijas al fondo.
 
